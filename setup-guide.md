@@ -7,6 +7,10 @@ Before setting up the Solana Token Creator, ensure you have the following instal
 - **Solana CLI** – [Install Guide](https://docs.solana.com/cli/install-solana-cli)
 - **A Solana Wallet** (Phantom, Solflare, or a generated keypair)
 
+## Requesting Access
+
+This repository is private. If you need access, please contact the maintainer.
+
 ## Installation Steps
 
 ### 1️⃣ Clone the Repository
